@@ -1,0 +1,74 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/shop_index/main",
+    "pages/login/login",
+    "pages/category/main",
+    "pages/category_product/main",
+    "pages/collect/main",
+    "pages/home/main",
+    "pages/home_function/main",
+    "pages/product_record/main",
+    "pages/show_product/main",
+    "pages/submit_product/main",
+    "pages/update_page/main",
+    "pages/buy_product/main",
+    "pages/HM-search/HM-search",
+    "pages/setting/setting",
+    "store/store",
+    "pages/order_form/order_form",
+    "pages/zone/zone",
+    "pages/chatList/chatList",
+    "pages/chat/chat",
+    "pages/recommend/recommend",
+    "pages/discuss/discuss"
+  ],
+  "subPackages": [],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#5B8FF9",
+    "navigationBarTitleText": "",
+    "navigationBarTextStyle": "white"
+  },
+  "tabBar": {
+    "color": "#999",
+    "selectedColor": "#5B8FF9",
+    "backgroundColor": "#fff",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/shop_index/main",
+        "text": "主页",
+        "iconPath": "./static/tabs/home.png",
+        "selectedIconPath": "./static/tabs/home-active.png"
+      },
+      {
+        "pagePath": "pages/category/main",
+        "text": "分类",
+        "iconPath": "./static/tabs/category.png",
+        "selectedIconPath": "./static/tabs/category-active.png"
+      },
+      {
+        "pagePath": "pages/submit_product/main",
+        "text": "发布",
+        "iconPath": "./static/tabs/submit.png",
+        "selectedIconPath": "./static/tabs/submit.png"
+      },
+      {
+        "pagePath": "pages/collect/main",
+        "text": "收藏",
+        "iconPath": "./static/tabs/collect.png",
+        "selectedIconPath": "./static/tabs/collect-active.png"
+      },
+      {
+        "pagePath": "pages/home/main",
+        "text": "我的",
+        "iconPath": "./static/tabs/me.png",
+        "selectedIconPath": "./static/tabs/me-active.png"
+      }
+    ]
+  },
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom"
+  }
+}

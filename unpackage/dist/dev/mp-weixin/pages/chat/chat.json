@@ -1,0 +1,12 @@
+{
+  "navigationBarTextStyle": "black",
+  "navigationBarTitleText": "wechat",
+  "navigationBarBackgroundColor": "#F8F8F8",
+  "pageOrientation": "portrait",
+  "usingComponents": {
+    "u-loading": "/node-modules/uview-ui/components/u-loading/u-loading",
+    "u-grid": "/node-modules/uview-ui/components/u-grid/u-grid",
+    "u-grid-item": "/node-modules/uview-ui/components/u-grid-item/u-grid-item",
+    "u-icon": "/node-modules/uview-ui/components/u-icon/u-icon"
+  }
+}

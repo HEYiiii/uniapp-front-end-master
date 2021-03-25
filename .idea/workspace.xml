@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="51ebd4ef-4994-4437-92a0-c4c2ce6d99cd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colorui/animation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colorui/components/cu-custom.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colorui/icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/colorui/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/Search.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/card.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/mehaotian-search-revision/mehaotian-search-revision.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/rf-protocol-popup/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/vear-carousel/vear-carousel.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/HM-search/HM-search.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/buy_product/main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/category/main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/category_product/main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/collect/main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/home/main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/home_function/main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index/index.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/login/login.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/order_form/order_form.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/product_record/main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/setting/setting.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/shop_index/main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/show_product/main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/submit_product/main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/template/collect_card_template/collect_card_template.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/template/my_function_card_template/my_function_card_template.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/template/product_card_template/product_card_template.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/test/test.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/update_page/main.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-search/attention.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-search/attention_forbid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-search/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/HM-search/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/font_1681579_yaiyfblc2xt.wxss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/pngs/login-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/pngs/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/pngs/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/pngs/user-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/pngs/wechat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/tabs/agree-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/tabs/agree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/tabs/category-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/tabs/category.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/tabs/collect-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/tabs/collect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/tabs/home-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/tabs/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/tabs/me-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/tabs/me.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/tabs/submit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/store/store.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uni.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.automator/app-plus/.automator.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.automator/mp-weixin/.automator.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/colorui/components/cu-custom.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/common/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/common/runtime.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/common/vendor.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/components/Search.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/components/c-userinfo/c-userinfo.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/components/mehaotian-search-revision/mehaotian-search-revision.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/components/rf-protocol-popup/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/HM-search/HM-search.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/buy_product/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/category/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/category_product/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/collect/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/comment/comment.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/home/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/home_function/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/index/index.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/login/login.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/order_form/order_form.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/product_record/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/setting/setting.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/shop_index/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/show_product/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/submit_product/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/template/collect_card_template/collect_card_template.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/template/my_function_card_template/my_function_card_template.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/template/product_card_template/product_card_template.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/update_page/main.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/pages/userInfo/userInfo.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/.sourcemap/mp-weixin/store/store.js.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniappchooselocation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniappes6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniappopenlocation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniapppicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniappquill.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniappquillimageresize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniappscan.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniappsuccess.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/__uniappview.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/app-config-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/app-config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/app-service.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/app-view.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/HM-search/attention.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/HM-search/attention_forbid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/HM-search/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/HM-search/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/font_1681579_yaiyfblc2xt.wxss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/pngs/login-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/pngs/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/pngs/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/pngs/user-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/pngs/wechat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/tabs/agree-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/tabs/agree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/tabs/category-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/tabs/category.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/tabs/collect-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/tabs/collect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/tabs/home-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/tabs/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/tabs/me-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/tabs/me.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/static/tabs/submit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/view.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/app-plus/view.umd.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/app.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/app.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/app.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/colorui/components/cu-custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/colorui/components/cu-custom.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/colorui/components/cu-custom.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/common/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/common/main.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/common/runtime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/common/vendor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/components/Search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/components/Search.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/components/Search.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/components/Search.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/components/mehaotian-search-revision/mehaotian-search-revision.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/components/mehaotian-search-revision/mehaotian-search-revision.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/components/mehaotian-search-revision/mehaotian-search-revision.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/components/mehaotian-search-revision/mehaotian-search-revision.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/components/rf-protocol-popup/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/components/rf-protocol-popup/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/components/rf-protocol-popup/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/components/rf-protocol-popup/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/HM-search/HM-search.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/HM-search/HM-search.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/HM-search/HM-search.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/HM-search/HM-search.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/buy_product/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/buy_product/main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/buy_product/main.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/buy_product/main.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/category/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/category/main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/category/main.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/category/main.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/category_product/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/category_product/main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/category_product/main.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/category_product/main.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/collect/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/collect/main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/collect/main.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/home/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/home/main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/home/main.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/home/main.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/home_function/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/home_function/main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/home_function/main.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/index/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/index/index.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/index/index.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/index/index.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/login/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/login/login.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/login/login.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/login/login.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/order_form/order_form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/order_form/order_form.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/order_form/order_form.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/order_form/order_form.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/product_record/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/product_record/main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/product_record/main.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/product_record/main.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/setting/setting.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/setting/setting.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/setting/setting.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/setting/setting.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/shop_index/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/shop_index/main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/shop_index/main.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/shop_index/main.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/show_product/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/show_product/main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/show_product/main.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/show_product/main.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/submit_product/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/submit_product/main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/submit_product/main.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/submit_product/main.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/template/collect_card_template/collect_card_template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/template/collect_card_template/collect_card_template.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/template/collect_card_template/collect_card_template.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/template/collect_card_template/collect_card_template.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/template/my_function_card_template/my_function_card_template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/template/my_function_card_template/my_function_card_template.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/template/my_function_card_template/my_function_card_template.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/template/my_function_card_template/my_function_card_template.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/template/product_card_template/product_card_template.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/template/product_card_template/product_card_template.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/template/product_card_template/product_card_template.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/update_page/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/update_page/main.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/update_page/main.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/pages/update_page/main.wxss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/project.config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/sitemap.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/sitemap54.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/sitemap58.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/sitemap64.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/static/HM-search/attention.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/static/HM-search/attention_forbid.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/static/HM-search/back.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/static/HM-search/delete.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/static/pngs/login-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/static/pngs/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/static/pngs/logo2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/static/pngs/user-bg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/static/pngs/wechat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/static/tabs/agree-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/static/tabs/agree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/static/tabs/category-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/static/tabs/category.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/static/tabs/collect-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/static/tabs/collect.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/static/tabs/home-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/static/tabs/home.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/static/tabs/me-active.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/static/tabs/me.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/static/tabs/submit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/store/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/store/store.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpackage/dist/dev/mp-weixin/store/store.wxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/index.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1130" />
+    <option name="width" value="798" />
+    <option name="height" value="1088" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="uniapp-front-end" type="b2602c69:ProjectViewProjectNode" />
+              <item name="uniapp-front-end" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="D:/Mycode/PythonClass" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="51ebd4ef-4994-4437-92a0-c4c2ce6d99cd" name="Default Changelist" comment="" />
+      <created>1600958374984</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600958374984</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="904" y="0" width="638" height="870" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2475083" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+</project>

@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "为您推荐",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "card-item": "/components/product_card_template"
+  }
+}

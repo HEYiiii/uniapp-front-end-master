@@ -1,0 +1,236 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* swiper{
+  height: 150rpx!important;
+  border-radius: 20rpx;
+  overflow: hidden;
+  margin: 20rpx;
+} */
+/*顶部搜索框*/
+.topBar {
+	width: 100%;
+	top: 0;
+	background-color: #5B8FF9;
+}
+.InSearch{
+	width: 100%;
+	padding: 0 3%;
+}
+.VerticalNav.nav {
+	width: 200rpx;
+	white-space: initial;
+}
+.VerticalNav.nav .cu-item {
+	width: 100%;
+	text-align: center;
+	background-color: #fff;
+	margin: 0;
+	border: none;
+	height: 50px;
+	position: relative;
+}
+.VerticalNav.nav .cu-item.cur {
+	background-color: #f1f1f1;
+}
+.VerticalNav.nav .cu-item.cur::after {
+	content: "";
+	width: 8rpx;
+	height: 30rpx;
+	-webkit-border-radius: 10rpx 0 0 10rpx;
+	        border-radius: 10rpx 0 0 10rpx;
+	position: absolute;
+	background-color: currentColor;
+	top: 0;
+	right: 0rpx;
+	bottom: 0;
+	margin: auto;
+}
+.VerticalBox {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+}
+.VerticalMain {
+	background-color: #f1f1f1;
+}
+

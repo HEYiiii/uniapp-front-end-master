@@ -1,0 +1,128 @@
+
+.status_bar {  
+    height: 25px;  
+    width: 100%;  
+		top: 0rpx;
+}
+.top_view {  
+    height: 25px;  
+    width: 100%;  
+    position: fixed;  
+		
+    top: 0;  
+    z-index: 999;
+}
+.top_view_active{
+	background-color: #5B8FF9;
+}
+.topContainer{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	background: -webkit-gradient(linear, left bottom, right top, from(#3e6369), to(#5B8FF9));
+	background: -webkit-linear-gradient(bottom left, #3e6369, #5B8FF9);
+	background: linear-gradient(to top right, #3e6369, #5B8FF9);
+}
+.topBar{
+	height:88rpx;
+	font-size: 54rpx;
+	color: white;
+	margin-top: 42rpx;
+	
+	border-bottom: 1rpx black;
+}
+.topBar>text{
+	margin: 17rpx;
+}
+.topUserInfo{
+	color: white;
+}
+.topUserInfoAvatar{
+	margin: 40rpx 20rpx 40rpx 40rpx;
+}
+.topUserInfoName{
+	margin: 32rpx 0 ;
+	font-size: 28rpx;
+	line-height: 28rpx;
+}
+.topUserInfoName>view{
+	padding: 11rpx;
+}
+.topUserInfoSetting{
+	margin: 73rpx 40rpx 0 0;
+}
+.topUserInfo_2{
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	margin: 10rpx 40rpx;
+}
+.topUserInfo_2>view{
+	margin-bottom: 30rpx;
+	font-size: 26rpx;
+}
+.message{
+	white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+  word-break: break-all;
+}
+.product-card-list{
+	width: 100%;
+	height: auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.card-item{
+	width: 48%;
+}
+.friend>view{
+	padding-right: 40rpx;
+}
+.depart{
+	height: 80rpx;
+	line-height: 80rpx;
+	background-color: #fff;
+}
+.depart_active{
+	width: 100%;
+	position: fixed;  
+	top:  25px;
+	z-index: 999;
+}
+.depart>view{
+	width: 33%;
+	text-align:center;
+	display: inline-block;
+}
+.inner{
+	display: none;
+}
+.inner_active{
+	padding-top: 80rpx;
+}
+.active{
+	display: block;
+}
+.line {
+		margin: -4rpx auto 0;
+		width: 30rpx;
+		height: 4rpx;
+		background-color: #5B8FF9;
+}
+

@@ -1,0 +1,7 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "card-item": "/components/product_card_template",
+    "issuance-card": "/components/issuanceCard"
+  }
+}

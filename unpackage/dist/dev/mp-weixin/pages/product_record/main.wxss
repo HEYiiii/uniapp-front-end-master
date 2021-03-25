@@ -1,0 +1,16 @@
+
+page {
+    background-color: white;
+}
+.container {
+    padding: 0;
+    width: 100%;
+}
+.steps-bottom.cu-steps .cu-item .num::before {
+    content: "\e668";
+    font-family: 'iconfont';
+}
+.cu-timeline {
+    width: 100%
+}
+

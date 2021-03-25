@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "天理校园跳蚤市场",
+  "usingComponents": {
+    "rf-protocol-popup": "/components/rf-protocol-popup"
+  }
+}

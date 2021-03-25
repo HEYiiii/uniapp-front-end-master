@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "天理校园跳蚤市场",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "card-item": "/components/product_card_template",
+    "search": "/components/Search"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "消息列表",
+  "navigationBarTextStyle": "black",
+  "navigationBarBackgroundColor": "#F8F8F8",
+  "pageOrientation": "portrait",
+  "usingComponents": {
+    "u-swipe-action": "/node-modules/uview-ui/components/u-swipe-action/u-swipe-action"
+  }
+}

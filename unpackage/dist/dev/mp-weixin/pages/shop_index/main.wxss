@@ -1,0 +1,83 @@
+
+page {
+	width: 100%;
+	height: auto;
+}
+.Container {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+
+/*顶部搜索框*/
+
+/*轮播图*/
+swiper{
+  width: 90%;
+  -webkit-border-radius: 20rpx;
+          border-radius: 20rpx;
+  overflow: hidden;
+  /* height: 400rpx; */
+  margin: 20rpx;
+}
+swiper image{
+  width: 100%;
+  height:100%;
+}
+.swiper-item{
+  width: 100%;
+  height: 100%;
+}
+.RoundBg{
+	position: absolute;
+	top:100rpx;
+	background-color: #5B8FF9;
+	width: 100%;
+	height: 220rpx;
+	-webkit-border-bottom-right-radius: 70rpx;
+	        border-bottom-right-radius: 70rpx;
+	-webkit-border-bottom-left-radius: 70rpx;
+	        border-bottom-left-radius: 70rpx;
+}
+
+/* .card{
+	width: 100%;
+	height: auto;
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	flex-wrap: wrap;
+}
+
+card-item{
+	height: auto;
+	width: 48%;
+	display: block;
+} */
+.product-card-list{
+	width: 100%;
+	height: auto;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	        justify-content: center;
+	-webkit-box-orient: horizontal;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: row;
+	        flex-direction: row;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.card-item{
+	width: 48%;
+}
+

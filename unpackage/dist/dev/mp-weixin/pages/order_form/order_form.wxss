@@ -1,0 +1,22 @@
+
+.container {
+	display: block;
+}
+.ui-all {
+	padding: 20rpx 40rpx;
+}
+.ui-list {
+	width: 100%;
+	text-align:left;
+	padding: 20rpx 0;
+	position: relative;
+	border-top: 3px solid #ececec;
+}
+.ui-list text {
+	color: #4a4a4a;
+	font-size: 28rpx;
+	display: inline-block;
+	vertical-align: middle;
+	min-width: 150rpx;
+}
+

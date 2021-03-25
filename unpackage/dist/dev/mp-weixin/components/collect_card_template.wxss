@@ -1,0 +1,96 @@
+
+page {
+	background-color: #eeeeef;
+}
+.w-sold {
+	background-color: white;
+	width: 90%;
+	margin: 20rpx auto;
+	-webkit-border-radius: 30rpx;
+	        border-radius: 30rpx;
+}
+
+/* 头部 */
+.w-sold-userinfo {
+	width: 100%;
+	height: 90rpx;
+}
+.w-payover {
+	position: absolute;
+	right: 20rpx;
+}
+
+/* 中间 */
+.w-content {
+	width: 100%;
+	padding: 15rpx;
+}
+.w-content>view {
+	width: 100%;
+	padding: 15rpx 15rpx;
+}
+.w-content image {
+	width: 100%;
+	-webkit-border-radius: 20rpx;
+	        border-radius: 20rpx;
+}
+.w-content>view>text {
+
+	overflow: hidden;
+	text-overflow: ellipsis;
+}
+.w-information {
+	width: 100%;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	        flex-direction: column;
+	-webkit-flex-wrap: wrap;
+	        flex-wrap: wrap;
+}
+.w-infor1 {
+	width: 100%;
+	-webkit-box-flex: 3;
+	-webkit-flex: 3;
+	        flex: 3;
+}
+.w-infor2 {
+	width: 100%;
+	-webkit-box-flex: 1;
+	-webkit-flex: 1 over;
+	        flex: 1 over
+}
+
+/* 底部 */
+.w-appendix {
+	position: relative;
+	width: 100%;
+	height: 70rpx;
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: flex;
+	padding: 10rpx 0 30rpx;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	        align-items: center;
+}
+.w-appendix>image {
+	margin: 10rpx 20rpx 10rpx 40rpx;
+	width: 60rpx;
+}
+.w-appendix>text {
+	line-height: 50rpx;
+}
+.w-else {
+	position: absolute;
+	right: 20rpx;
+	bottom: 19rpx;
+	border: 2rpx solid #8a8a8a;
+	-webkit-border-radius: 30rpx;
+	        border-radius: 30rpx;
+}
+.unlike {
+	position: relative;
+	margin-right: 30rpx;
+}
+
